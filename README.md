@@ -2,4 +2,4 @@
 <hr>
 
 #### 项目预览
-<image src="https://s3.bmp.ovh/imgs/2023/04/20/340caa2c5b21b880.png" style="text-align: center;"/>
+<image src="https://s3.bmp.ovh/imgs/2023/04/20/340caa2c5b21b880.png" style="text-align: center, zoom:40%;"/>
